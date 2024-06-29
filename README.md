@@ -1,10 +1,10 @@
 # CODTECH-Task1
-Name : ARVIND B
-Company : CODTECH IT SOLUTIONS
-ID : CT08DS1996
-Domain : Data Analytics
-Duration : 10th JUNE 2024 to 10th JULY 2024
-Mentor : G.SRAVANI
+**Name:** ARVIND B
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT08DS1996
+**Domain:** Data Analytics
+**Duration:** 10th JUNE 2024 to 10th JULY 2024
+**Mentor:** G.SRAVANI
 
 PROJECT : PREDICTIVE MODELING WITH LINEAR REGRESSION
 Implement a simple linear regression model using a dataset with continuous target variables. Split the data into training and testing sets, train the model on the training data, evaluate its performance using metrics like mean squared error or R-squared, and make predictions on the test set. Visualize the regression line and actual vs. predicted values to assess the model's accuracy
@@ -58,12 +58,13 @@ The dataset used in this project contains the following columns:
 
 - The regression line showing the relationship between present price and selling price.
 - A plot comparing the actual vs. predicted selling prices.
-- Model performance metrics such as MAE, MSE, and R² score.!
-- [fuel info](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/94b5b25a-2013-4a5f-a430-14e74fa55e6a)
-![actual v predict](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/ec5e2693-2841-41ed-b486-9f7954c49c26)
-![transmission info](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/e08e2d99-6cb7-4b41-81d0-aa4230eb583e)
-![seller info](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/5f426fbc-31cf-47ed-9f71-c0c04213f536)
-![regression line](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/e3531524-32f6-4ac7-8480-f6dfe748839b)
+- Model performance metrics such as MAE, MSE, and R² score.
+
+![fuel info](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/40c74004-662f-4041-a944-d30d21a4f3e7)
+![actual v predict](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/07cc3f70-2eff-4db7-aa37-d644383309fb)
+![transmission info](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/e2ad270a-a921-41e4-8a86-55e69f9ec483)
+![seller info](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/9ac870c3-84cb-42e4-8f6a-cd194d5660fe)
+![regression line](https://github.com/aren-prime/CODTECH-Task1/assets/132383378/3c12be50-6018-48d3-bf5b-79760f32bf96)
 
 
 ## Conclusion
